@@ -1,4 +1,4 @@
-package com.alpha58.okhttps;
+package com.alpha58.okhttps.utils;
 
 import android.content.Context;
 
